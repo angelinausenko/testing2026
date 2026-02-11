@@ -1,0 +1,14 @@
+{
+  "name": "lab-07-accessibility-rozetka",
+  "version": "1.0.0",
+  "description": "Accessibility testing using Jest and Selenium",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
