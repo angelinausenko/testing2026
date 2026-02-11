@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelinausenko/testing2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelinausenko/testing2026/issues"
+  },
+  "homepage": "https://github.com/angelinausenko/testing2026#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
