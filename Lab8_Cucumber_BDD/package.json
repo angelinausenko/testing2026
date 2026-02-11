@@ -1,0 +1,13 @@
+{
+  "name": "lab8_bdd_cucumber",
+  "version": "1.0.0",
+  "description": "BDD automation with Cucumber and Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.0",
+    "playwright": "^1.40.0"
+  }
+}
