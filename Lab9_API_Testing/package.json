@@ -1,0 +1,12 @@
+{
+  "name": "lab9_api_testing",
+  "version": "1.0.0",
+  "description": "API Testing with Jest and Pactum",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "pactum": "^3.0.0"
+  }
+}
